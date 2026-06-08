@@ -1,42 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PatTo\\source\\repos\\pk_LAB\\project\\project\\",
+  "WorkspaceRootPath": "C:\\Users\\Patryk\\source\\repos\\pk_LAB\\project\\project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{101015CC-CBB9-484A-A952-70F4303548EE}|project.vcxproj|C:\\Users\\PatTo\\source\\repos\\pk_LAB\\project\\project\\func_file.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{101015CC-CBB9-484A-A952-70F4303548EE}|project.vcxproj|C:\\Users\\Patryk\\source\\repos\\pk_LAB\\project\\project\\func_file.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{101015CC-CBB9-484A-A952-70F4303548EE}|project.vcxproj|solutionrelative:func_file.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{101015CC-CBB9-484A-A952-70F4303548EE}|project.vcxproj|C:\\Users\\PatTo\\source\\repos\\pk_LAB\\project\\project\\func_db.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{101015CC-CBB9-484A-A952-70F4303548EE}|project.vcxproj|solutionrelative:func_db.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{101015CC-CBB9-484A-A952-70F4303548EE}|project.vcxproj|C:\\Users\\PatTo\\source\\repos\\pk_LAB\\project\\project\\func_db.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{101015CC-CBB9-484A-A952-70F4303548EE}|project.vcxproj|solutionrelative:func_db.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{101015CC-CBB9-484A-A952-70F4303548EE}|project.vcxproj|C:\\Users\\PatTo\\source\\repos\\pk_LAB\\project\\project\\func_ui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{101015CC-CBB9-484A-A952-70F4303548EE}|project.vcxproj|solutionrelative:func_ui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{101015CC-CBB9-484A-A952-70F4303548EE}|project.vcxproj|C:\\Users\\PatTo\\source\\repos\\pk_LAB\\project\\project\\func_ui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{101015CC-CBB9-484A-A952-70F4303548EE}|project.vcxproj|solutionrelative:func_ui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{101015CC-CBB9-484A-A952-70F4303548EE}|project.vcxproj|C:\\Users\\PatTo\\source\\repos\\pk_LAB\\project\\project\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{101015CC-CBB9-484A-A952-70F4303548EE}|project.vcxproj|C:\\Users\\Patryk\\source\\repos\\pk_LAB\\project\\project\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{101015CC-CBB9-484A-A952-70F4303548EE}|project.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{101015CC-CBB9-484A-A952-70F4303548EE}|project.vcxproj|C:\\Users\\PatTo\\source\\repos\\pk_LAB\\project\\project\\class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{101015CC-CBB9-484A-A952-70F4303548EE}|project.vcxproj|C:\\Users\\Patryk\\source\\repos\\pk_LAB\\project\\project\\class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{101015CC-CBB9-484A-A952-70F4303548EE}|project.vcxproj|solutionrelative:class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{101015CC-CBB9-484A-A952-70F4303548EE}|project.vcxproj|C:\\Users\\PatTo\\source\\repos\\pk_LAB\\project\\project\\class.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{101015CC-CBB9-484A-A952-70F4303548EE}|project.vcxproj|C:\\Users\\Patryk\\source\\repos\\pk_LAB\\project\\project\\class.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{101015CC-CBB9-484A-A952-70F4303548EE}|project.vcxproj|solutionrelative:class.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{101015CC-CBB9-484A-A952-70F4303548EE}|project.vcxproj|C:\\Users\\PatTo\\source\\repos\\pk_LAB\\project\\project\\func_file.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{101015CC-CBB9-484A-A952-70F4303548EE}|project.vcxproj|C:\\Users\\Patryk\\source\\repos\\pk_LAB\\project\\project\\func_file.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{101015CC-CBB9-484A-A952-70F4303548EE}|project.vcxproj|solutionrelative:func_file.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101015CC-CBB9-484A-A952-70F4303548EE}|project.vcxproj|C:\\Users\\Patryk\\source\\repos\\pk_LAB\\project\\project\\func_db.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{101015CC-CBB9-484A-A952-70F4303548EE}|project.vcxproj|solutionrelative:func_db.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101015CC-CBB9-484A-A952-70F4303548EE}|project.vcxproj|C:\\Users\\Patryk\\source\\repos\\pk_LAB\\project\\project\\func_db.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{101015CC-CBB9-484A-A952-70F4303548EE}|project.vcxproj|solutionrelative:func_db.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101015CC-CBB9-484A-A952-70F4303548EE}|project.vcxproj|C:\\Users\\Patryk\\source\\repos\\pk_LAB\\project\\project\\func_ui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{101015CC-CBB9-484A-A952-70F4303548EE}|project.vcxproj|solutionrelative:func_ui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101015CC-CBB9-484A-A952-70F4303548EE}|project.vcxproj|C:\\Users\\Patryk\\source\\repos\\pk_LAB\\project\\project\\func_ui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{101015CC-CBB9-484A-A952-70F4303548EE}|project.vcxproj|solutionrelative:func_ui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,13 +54,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "func_file.h",
-              "DocumentMoniker": "C:\\Users\\PatTo\\source\\repos\\pk_LAB\\project\\project\\func_file.h",
+              "DocumentMoniker": "C:\\Users\\Patryk\\source\\repos\\pk_LAB\\project\\project\\func_file.h",
               "RelativeDocumentMoniker": "func_file.h",
-              "ToolTip": "C:\\Users\\PatTo\\source\\repos\\pk_LAB\\project\\project\\func_file.h",
+              "ToolTip": "C:\\Users\\Patryk\\source\\repos\\pk_LAB\\project\\project\\func_file.h",
               "RelativeToolTip": "func_file.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-05-05T21:13:22.895Z"
             },
@@ -68,102 +68,98 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "func_file.cpp",
-              "DocumentMoniker": "C:\\Users\\PatTo\\source\\repos\\pk_LAB\\project\\project\\func_file.cpp",
+              "DocumentMoniker": "C:\\Users\\Patryk\\source\\repos\\pk_LAB\\project\\project\\func_file.cpp",
               "RelativeDocumentMoniker": "func_file.cpp",
-              "ToolTip": "C:\\Users\\PatTo\\source\\repos\\pk_LAB\\project\\project\\func_file.cpp",
+              "ToolTip": "C:\\Users\\Patryk\\source\\repos\\pk_LAB\\project\\project\\func_file.cpp",
               "RelativeToolTip": "func_file.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAwFAAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-05T21:13:08.032Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "func_db.h",
-              "DocumentMoniker": "C:\\Users\\PatTo\\source\\repos\\pk_LAB\\project\\project\\func_db.h",
+              "DocumentMoniker": "C:\\Users\\Patryk\\source\\repos\\pk_LAB\\project\\project\\func_db.h",
               "RelativeDocumentMoniker": "func_db.h",
-              "ToolTip": "C:\\Users\\PatTo\\source\\repos\\pk_LAB\\project\\project\\func_db.h",
+              "ToolTip": "C:\\Users\\Patryk\\source\\repos\\pk_LAB\\project\\project\\func_db.h",
               "RelativeToolTip": "func_db.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-05T20:14:43.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-05T20:14:43.715Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "func_db.cpp",
-              "DocumentMoniker": "C:\\Users\\PatTo\\source\\repos\\pk_LAB\\project\\project\\func_db.cpp",
+              "DocumentMoniker": "C:\\Users\\Patryk\\source\\repos\\pk_LAB\\project\\project\\func_db.cpp",
               "RelativeDocumentMoniker": "func_db.cpp",
-              "ToolTip": "C:\\Users\\PatTo\\source\\repos\\pk_LAB\\project\\project\\func_db.cpp",
+              "ToolTip": "C:\\Users\\Patryk\\source\\repos\\pk_LAB\\project\\project\\func_db.cpp",
               "RelativeToolTip": "func_db.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-05T20:14:34.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "func_ui.h",
-              "DocumentMoniker": "C:\\Users\\PatTo\\source\\repos\\pk_LAB\\project\\project\\func_ui.h",
-              "RelativeDocumentMoniker": "func_ui.h",
-              "ToolTip": "C:\\Users\\PatTo\\source\\repos\\pk_LAB\\project\\project\\func_ui.h",
-              "RelativeToolTip": "func_ui.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-05T20:14:07.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "func_ui.cpp",
-              "DocumentMoniker": "C:\\Users\\PatTo\\source\\repos\\pk_LAB\\project\\project\\func_ui.cpp",
-              "RelativeDocumentMoniker": "func_ui.cpp",
-              "ToolTip": "C:\\Users\\PatTo\\source\\repos\\pk_LAB\\project\\project\\func_ui.cpp",
-              "RelativeToolTip": "func_ui.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-05T20:13:53.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-05T20:14:34.663Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "func_ui.h",
+              "DocumentMoniker": "C:\\Users\\Patryk\\source\\repos\\pk_LAB\\project\\project\\func_ui.h",
+              "RelativeDocumentMoniker": "func_ui.h",
+              "ToolTip": "C:\\Users\\Patryk\\source\\repos\\pk_LAB\\project\\project\\func_ui.h",
+              "RelativeToolTip": "func_ui.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-05T20:14:07.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "func_ui.cpp",
+              "DocumentMoniker": "C:\\Users\\Patryk\\source\\repos\\pk_LAB\\project\\project\\func_ui.cpp",
+              "RelativeDocumentMoniker": "func_ui.cpp",
+              "ToolTip": "C:\\Users\\Patryk\\source\\repos\\pk_LAB\\project\\project\\func_ui.cpp",
+              "RelativeToolTip": "func_ui.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-05T20:13:53.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "class.h",
-              "DocumentMoniker": "C:\\Users\\PatTo\\source\\repos\\pk_LAB\\project\\project\\class.h",
+              "DocumentMoniker": "C:\\Users\\Patryk\\source\\repos\\pk_LAB\\project\\project\\class.h",
               "RelativeDocumentMoniker": "class.h",
-              "ToolTip": "C:\\Users\\PatTo\\source\\repos\\pk_LAB\\project\\project\\class.h",
+              "ToolTip": "C:\\Users\\Patryk\\source\\repos\\pk_LAB\\project\\project\\class.h",
               "RelativeToolTip": "class.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-05-05T20:13:43.337Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "class.cpp",
-              "DocumentMoniker": "C:\\Users\\PatTo\\source\\repos\\pk_LAB\\project\\project\\class.cpp",
+              "DocumentMoniker": "C:\\Users\\Patryk\\source\\repos\\pk_LAB\\project\\project\\class.cpp",
               "RelativeDocumentMoniker": "class.cpp",
-              "ToolTip": "C:\\Users\\PatTo\\source\\repos\\pk_LAB\\project\\project\\class.cpp",
+              "ToolTip": "C:\\Users\\Patryk\\source\\repos\\pk_LAB\\project\\project\\class.cpp",
               "RelativeToolTip": "class.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-05T20:13:31.198Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\PatTo\\source\\repos\\pk_LAB\\project\\project\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\Patryk\\source\\repos\\pk_LAB\\project\\project\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\PatTo\\source\\repos\\pk_LAB\\project\\project\\main.cpp",
+              "ToolTip": "C:\\Users\\Patryk\\source\\repos\\pk_LAB\\project\\project\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-05T20:13:24.672Z",
               "EditorCaption": ""

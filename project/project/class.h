@@ -7,7 +7,9 @@ class character {
 	std::string name, middleName, lastName, bio;
 	
 public:
-
+	character() {
+		
+	}
 };
 // anime
 
