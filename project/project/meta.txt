@@ -1,0 +1,2 @@
+topCharId: 0
+topAnimeId: 0

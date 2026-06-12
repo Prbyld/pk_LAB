@@ -127,6 +127,7 @@
     <ClCompile Include="func_db.cpp" />
     <ClCompile Include="func_file.cpp" />
     <ClCompile Include="func_ui.cpp" />
+    <ClCompile Include="global.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -134,6 +135,7 @@
     <ClInclude Include="func_db.h" />
     <ClInclude Include="func_file.h" />
     <ClInclude Include="func_ui.h" />
+    <ClInclude Include="global.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

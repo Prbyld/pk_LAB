@@ -1,30 +1,13 @@
 #include <fstream>
 #include <string>
 #include <iostream>
-#include <sstream>
 #include <vector>
-#include <unordered_map>
 
-enum table
-{
-	CHARACTER,
-	CHAR,
-	ANIME,
-	CHARACTER_RELATION,
-	CHAR_REL,
-	ANIME_REL
-};
-
-enum mode
-{
-	GET,
-	INC,
-	DEC
-};
+#include "global.h"
 
 int topId(table tb, mode md) {
 	
-	if (tb == CHARACTER_RELATION || tb == CHAR_REL || tb == ANIME_REL) {
+	if (tb == table::CHARACTER_RELATION || tb == table::ANIME_RELATION) {
 		std::cout << "ERROR: wrong table";
 		return -1;
 	}
@@ -54,18 +37,19 @@ int topId(table tb, mode md) {
 		key = getKey(temp);
 
 		switch (tb) {
-			case CHAR:
-			case CHARACTER:
+			case table::CHARACTER:
 				if(key == "topCharId")
 					value = getValue(temp);
 				break;
-			case ANIME:
+			case table::ANIME:
 				if (key == "topAnimeId")
 					value = getValue(temp);
 				break;
 			default:
 				return -1;
 		}
+		if (value != -1)
+			break; 
 	}
 
 	auto valueChange = [getKey, getValue](const std::string& key, const int value, const std::string& fileName) {
@@ -78,31 +62,35 @@ int topId(table tb, mode md) {
 		while (std::getline(metaIn, mtLine)){
 			mtVec.push_back(mtLine);
 		}
+		metaIn.close();
 		std::ofstream metaOut(fileName);
 		for (auto val : mtVec) {
 			if (getKey(val) == key) {
-				metaOut << key << ": " << getValue(val);
+				metaOut << key << ": " << value  << "\n";
 			}
 			else
 			{
-				metaOut << val;
+				metaOut << val << "\n";
 			}
 		}
+		metaOut.close();
 		return;
 	};
 
 	switch (md) {
-		case GET:
+		case mode::GET:
 			break;
-		case INC:
+		case mode::INC:
 			valueChange(key, ++value, metaFileName);
 			break;
-		case DEC:
+		case mode::DEC:
 			valueChange(key, --value, metaFileName);
 			break;
 		default:
 			std::cout << "ERROR: bad mode";
 			return -1;
 	}
+	meta.close();
 	return value;
 }
+
