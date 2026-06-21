@@ -1,0 +1,8 @@
+﻿  functions.cpp
+  main.cpp
+C:\Users\Patryk\source\repos\pk_LAB\LAB_2\LAB2\main.cpp(6,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Patryk\source\repos\pk_LAB\LAB_2\LAB2\main.cpp(6,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Patryk\source\repos\pk_LAB\LAB_2\LAB2\main.cpp(7,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Patryk\source\repos\pk_LAB\LAB_2\LAB2\main.cpp(7,22): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  LAB2.vcxproj -> C:\Users\Patryk\source\repos\pk_LAB\LAB_2\LAB2\x64\Debug\LAB2.exe
