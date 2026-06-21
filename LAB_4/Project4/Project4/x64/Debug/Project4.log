@@ -1,0 +1,18 @@
+﻿  class.cpp
+C:\Users\Patryk\source\repos\pk_LAB\LAB_4\Project4\class.h(49,21): warning C4584: 'MPG4': base-class 'MPG' is already a base-class of 'MPG2'
+  (compiling source file 'class.cpp')
+  C:\Users\Patryk\source\repos\pk_LAB\LAB_4\Project4\class.h(22,7):
+  see declaration of 'MPG'
+  C:\Users\Patryk\source\repos\pk_LAB\LAB_4\Project4\class.h(44,7):
+  see declaration of 'MPG2'
+  
+  main.cpp
+C:\Users\Patryk\source\repos\pk_LAB\LAB_4\Project4\class.h(49,21): warning C4584: 'MPG4': base-class 'MPG' is already a base-class of 'MPG2'
+  (compiling source file 'main.cpp')
+  C:\Users\Patryk\source\repos\pk_LAB\LAB_4\Project4\class.h(22,7):
+  see declaration of 'MPG'
+  C:\Users\Patryk\source\repos\pk_LAB\LAB_4\Project4\class.h(44,7):
+  see declaration of 'MPG2'
+  
+  Generating Code...
+  Project4.vcxproj -> C:\Users\Patryk\source\repos\pk_LAB\LAB_4\Project4\x64\Debug\Project4.exe
