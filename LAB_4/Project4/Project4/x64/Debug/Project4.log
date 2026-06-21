@@ -1,9 +1,0 @@
-﻿  main.cpp
-C:\Users\SuperStudent-PL\source\repos\pk_LAB\LAB_4\Project4\class.h(78,21): warning C4584: 'MPG4': base-class 'MPG' is already a base-class of 'MPG2'
-  (compiling source file 'main.cpp')
-      C:\Users\SuperStudent-PL\source\repos\pk_LAB\LAB_4\Project4\class.h(33,7):
-      see declaration of 'MPG'
-      C:\Users\SuperStudent-PL\source\repos\pk_LAB\LAB_4\Project4\class.h(70,7):
-      see declaration of 'MPG2'
-  
-  Project4.vcxproj -> C:\Users\SuperStudent-PL\source\repos\pk_LAB\LAB_4\Project4\x64\Debug\Project4.exe
