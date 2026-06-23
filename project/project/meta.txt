@@ -1,2 +1,2 @@
-topCharId: 0
-topAnimeId: 0
+topCharId: 2
+topAnimeId: 4

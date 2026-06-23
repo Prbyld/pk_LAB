@@ -127,7 +127,6 @@
     <ClCompile Include="func_db.cpp" />
     <ClCompile Include="func_file.cpp" />
     <ClCompile Include="func_ui.cpp" />
-    <ClCompile Include="global.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>

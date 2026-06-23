@@ -1,9 +1,10 @@
-/// @file
-
 #ifndef GLOBAL_H
 #define GLOBAL_H
 
-
+/**
+ * @enum table
+ * @brief Reprezentuje tabele bazodanowe dostêpne w systemie.
+ */
 enum class table
 {
 	CHARACTER,
@@ -12,18 +13,17 @@ enum class table
 	ANIME_RELATION
 };
 
+/**
+ * @enum mode
+ * @brief Definiuje tryby operacji na licznikach ID (metadanych).
+ */
 enum class mode
 {
 	GET,
 	INC,
-	DEC
+	DEC,
+	SET
 };
 
-enum class aniemRelations
-{
-	SEQUEL,
-	PREQUEL,
-	SIDE_STORY
-};
 
 #endif
